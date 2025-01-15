@@ -38,21 +38,21 @@ export const Dropdown = () => {
           <div className="py-1" role="menu" aria-orientation="vertical">
             <a
               href=""
-              className="block px-4 py-2 text-sm text-[#DFCCA8] hover:text-black hover:bg-gray-100"
+              className="block px-4 py-2 text-sm text-[#e0bf85] hover:text-black hover:bg-gray-100"
               role="menuitem"
             >
               Dog Boarding
             </a>
             <a
               href=""
-              className="block px-4 py-2 text-sm text-[#DFCCA8] hover:text-black hover:bg-gray-100"
+              className="block px-4 py-2 text-sm text-[#e0bf85] hover:text-black hover:bg-gray-100"
               role="menuitem"
             >
               Development
             </a>
             <a
               href=""
-              className="block px-4 py-2 text-sm text-[#DFCCA8] hover:text-black hover:bg-gray-100"
+              className="block px-4 py-2 text-sm text-[#e0bf85] hover:text-black hover:bg-gray-100"
               role="menuitem"
             >
               Design
